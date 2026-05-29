@@ -8,3 +8,4 @@ useful (very)
 
 (please ignore that the source code is in a zip file)
 
+(not vibecoded) i don't vibecode althrough
