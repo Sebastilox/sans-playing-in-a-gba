@@ -1,7 +1,8 @@
 # sans-playing-in-a-gba
-stupid project made in c++ with butano
+stupid project i made in c++ with butano in 15 minutes 
 
 
-sans in your gba playing (original audio)
+sans in your gba playing (original audio PCM)
 
-useful
+useful (very)
+
