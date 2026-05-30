@@ -7,5 +7,6 @@ sans in your gba playing (original audio PCM)
 useful (very)
 
 (please ignore that the source code is in a zip file)
+someone teach me how to use git
 
 (not vibecoded) i don't vibecode anymore
